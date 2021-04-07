@@ -1,6 +1,6 @@
 # BrainTumour-Opencv
 
-A demonstration to detect brain tumour in MRI iamges.
+A demonstration to detect brain tumour in MRI images.
 
 ## Tools
 - OpenCV
