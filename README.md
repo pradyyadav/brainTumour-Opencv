@@ -1,6 +1,6 @@
 # brainTumour-Opencv
 
-A demonstration to mask the detected brain tumour in MRI iamges.
+A demonstration to detect brain tumour in MRI iamges.
 
 ## Tools
 - OpenCV
