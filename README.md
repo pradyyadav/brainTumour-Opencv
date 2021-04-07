@@ -21,7 +21,7 @@ A demonstration to detect brain tumour in MRI iamges.
 #### Dilate
 ![dilate](https://github.com/pradyyadav/Images/blob/main/dilated.png?raw=True)
 
-### Bitwise and operation to create mask
+### Bitwise AND operation to create mask
 ![mask](https://github.com/pradyyadav/Images/blob/main/masked.png?raw=True)
 
 
