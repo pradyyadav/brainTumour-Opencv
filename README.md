@@ -1,4 +1,4 @@
-# brainTumour-Opencv
+# BrainTumour-Opencv
 
 A demonstration to detect brain tumour in MRI iamges.
 
